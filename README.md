@@ -11,7 +11,7 @@ Install a web server globally, such as http-server, by running the following com
 
 Navigate to the dist directory of your Angular project:
 
-`cd dist/socket-fronted`
+`cd dist/your-angular-project-name`
 
 Start the web server by running the following command:
 
